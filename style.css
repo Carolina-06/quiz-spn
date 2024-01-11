@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 70px;
+   font-size: 30px; 
+    color: red;
+
+}
+
+p{
+    color: white;
+    font-size: 20px;
+
+}
+
+.imgRedonda{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.conteudo{
+ display: table;  
+}
+.imagem{
+    display: table-cell;
+    float: left;
+    
+}
+
+.texto{
+    display: table-cell;
+    float: left;
+    width: 840px;
+}
+
+.img{
+    display: table-cell;
+    float: right;
+}
+
+.imgarredondada{
+    border-radius: 20px;
+}
