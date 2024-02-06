@@ -1,1 +1,2 @@
 # quiz-spn
+Esse é um site no qual você pode ver um pouco da história de alguns dos principais personagens da série Supernatural e/ou também jogar um quiz com algumas perguntas relacionadas a série para descobrir se é verdadeiramente um fã.   
